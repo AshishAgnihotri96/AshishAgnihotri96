@@ -1,4 +1,4 @@
-[![MasterHead](https://i.im.ge/2022/08/19/O71ct9.CLW8JbAu.gif)]
+![MasterHead](https://i.im.ge/2022/08/19/O71ct9.CLW8JbAu.gif)
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Agnihotri</h1>
 <h3 align="center">A passionate frontend-backend developer from India</h3>
