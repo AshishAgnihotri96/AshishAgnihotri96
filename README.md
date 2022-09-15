@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React-Redux**
 
-- 👨‍💻 All of my projects are available at [https://unique-dasik-b13a3d.netlify.app](https://unique-dasik-b13a3d.netlify.app)
+- 👨‍💻 All of my projects are available at [https://mellow-douhua-e76197.netlify.app/](https://mellow-douhua-e76197.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 
