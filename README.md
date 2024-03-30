@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Agnihotri</h1>
 <h3 align="center">A passionate frontend-backend developer from India</h3>
+<h4>Greetings! A passionate web developer known for crafting engaging and user-centric digital experiences. With a background in computer science and a keen eye for design, the journey in the world of web development began with a curiosity to blend technology with creativity. Over the years, diverse projects have been undertaken, each presenting unique challenges and opportunities for growth</h4>
 <img align="right" alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishagnihotri96&label=Profile%20views&color=0e75b6&style=flat" alt="ashishagnihotri96" /> </p>
 
