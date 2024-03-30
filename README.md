@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **mytheresa.com**
+- 🔭 I’m currently working on **theInkShop.com**
 
-- 🌱 I’m currently learning **React-Redux**
+- 🌱 I’m currently learning **JAVA and Python**
 
-- 👨‍💻 All of my projects are available at [https://mellow-douhua-e76197.netlify.app/](https://mellow-douhua-e76197.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-update-ashen.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **React, React Native, Redux, HTML, CSS, JavaScript, NodeJS, Express, MongoDB**
 
 - 📫 How to reach me **agnih96@gmail.com**
 
